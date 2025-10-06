@@ -7,3 +7,4 @@
 *chile
 *ajo
 ## Preparacion
+*Se pelan los aguacates
